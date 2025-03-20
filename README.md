@@ -1,2 +1,2 @@
-# ofp-sam-status-advice-reporting
+# ofp-sam-reporting
 Reporting WCPFC SC status and management advice
